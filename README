@@ -1,0 +1,6 @@
+This project took an input of grocery items purchased and allowed the user to search the frequency of a single item and all items. It also output a text file with the items 
+listed in alphabetical order with their correspoding frequencies. I believe that my python code was minimalistic, as well as efficient which made it very easy to integrate into 
+C++. I feel like my code could have been enhanced by better in line comments, but I do believe I performed well anyways. I did not figure out how exactly to use pointers and they
+could increase my codes efficiency. The hardest part of this project was figuring out how to organize the dictionary that I had made to store the items and their frequencies. This
+project definitely tested my skills in multiple languages at once which should be very useful in future. My program is all separated into different functions so it would be easy to 
+add, remove, or modify a function. with proper use of whitespace and comments code should be very readable.
